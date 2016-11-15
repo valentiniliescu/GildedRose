@@ -39,10 +39,15 @@
 
  * */
 
+using System.Collections.Generic;
+using System.Linq;
+
 namespace GildedRose.Console
 {
     public partial class GildedRose
     {
+        public IEnumerable<Item> Inventory => _innventory;
+
         public void UpdateQuality()
         {
             foreach (var item in _innventory)
