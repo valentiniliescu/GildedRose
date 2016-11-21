@@ -51,14 +51,12 @@ namespace GildedRose.Console
         {
             foreach (var item in Inventory)
             {
-                if (item.Name != "Aged Brie" && item.Name != "Backstage passes to a TAFKAL80ETC concert")
+                switch (item.Name)
                 {
-                    DecreaseQualityIfNotSulfuras(item);
-                }
-                else
-                {
-                    if (item.Quality < 50)
-                    {
+                    case "Aged Brie":
+                        IncreaseQualityIfUnder50(item);
+                        break;
+                    case "Backstage passes to a TAFKAL80ETC concert":
                         IncreaseQualityIfUnder50(item);
 
                         if (item.Name == "Backstage passes to a TAFKAL80ETC concert")
@@ -73,7 +71,13 @@ namespace GildedRose.Console
                                 IncreaseQualityIfUnder50(item);
                             }
                         }
-                    }
+                        break;
+                    case "Sulfuras, Hand of Ragnaros":
+                        DecreaseQualityIfNotSulfuras(item);
+                        break;
+                    default:
+                        DecreaseQualityIfNotSulfuras(item);
+                        break;
                 }
 
                 if (item.Name != "Sulfuras, Hand of Ragnaros")
