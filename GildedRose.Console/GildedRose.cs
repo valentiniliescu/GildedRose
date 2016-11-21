@@ -59,17 +59,14 @@ namespace GildedRose.Console
                     case "Backstage passes to a TAFKAL80ETC concert":
                         IncreaseQualityIfUnder50(item);
 
-                        if (item.Name == "Backstage passes to a TAFKAL80ETC concert")
+                        if (item.SellIn < 11)
                         {
-                            if (item.SellIn < 11)
-                            {
-                                IncreaseQualityIfUnder50(item);
-                            }
+                            IncreaseQualityIfUnder50(item);
+                        }
 
-                            if (item.SellIn < 6)
-                            {
-                                IncreaseQualityIfUnder50(item);
-                            }
+                        if (item.SellIn < 6)
+                        {
+                            IncreaseQualityIfUnder50(item);
                         }
                         break;
                     case "Sulfuras, Hand of Ragnaros":
@@ -87,20 +84,20 @@ namespace GildedRose.Console
 
                 if (item.SellIn < 0)
                 {
-                    if (item.Name != "Aged Brie")
+                    switch (item.Name)
                     {
-                        if (item.Name != "Backstage passes to a TAFKAL80ETC concert")
-                        {
-                            DecreaseQualityIfNotSulfuras(item);
-                        }
-                        else
-                        {
+                        case "Aged Brie":
+                            IncreaseQualityIfUnder50(item);
+                            break;
+                        case "Backstage passes to a TAFKAL80ETC concert":
                             item.Quality = 0;
-                        }
-                    }
-                    else
-                    {
-                        IncreaseQualityIfUnder50(item);
+                            break;
+                        case "Sulfuras, Hand of Ragnaros":
+                            DecreaseQualityIfNotSulfuras(item);
+                            break;
+                        default:
+                            DecreaseQualityIfNotSulfuras(item);
+                            break;
                     }
                 }
             }
