@@ -57,6 +57,13 @@ namespace GildedRose.Console
                 {
                     case "Aged Brie":
                         IncreaseQualityIfPossible(item);
+
+                        DecreaseSellIn(item);
+
+                        if (IsExpired(item))
+                        {
+                            IncreaseQualityIfPossible(item);
+                        }
                         break;
                     case "Backstage passes to a TAFKAL80ETC concert":
                         IncreaseQualityIfPossible(item);
@@ -70,37 +77,38 @@ namespace GildedRose.Console
                         {
                             IncreaseQualityIfPossible(item);
                         }
+
+                        DecreaseSellIn(item);
+
+                        if (IsExpired(item))
+                        {
+                            item.Quality = 0;
+                        }
                         break;
                     case "Sulfuras, Hand of Ragnaros":
                         break;
                     default:
                         DecreaseQualityIfPossible(item);
+
+                        DecreaseSellIn(item);
+
+                        if (IsExpired(item))
+                        {
+                            DecreaseQualityIfPossible(item);
+                        }
                         break;
                 }
-
-                if (item.Name != "Sulfuras, Hand of Ragnaros")
-                {
-                    item.SellIn = item.SellIn - 1;
-                }
-
-                if (item.SellIn < 0)
-                {
-                    switch (item.Name)
-                    {
-                        case "Aged Brie":
-                            IncreaseQualityIfPossible(item);
-                            break;
-                        case "Backstage passes to a TAFKAL80ETC concert":
-                            item.Quality = 0;
-                            break;
-                        case "Sulfuras, Hand of Ragnaros":
-                            break;
-                        default:
-                            DecreaseQualityIfPossible(item);
-                            break;
-                    }
-                }
             }
+        }
+
+        private static bool IsExpired(Item item)
+        {
+            return item.SellIn < 0;
+        }
+
+        private static void DecreaseSellIn(Item item)
+        {
+            item.SellIn = item.SellIn - 1;
         }
 
         private static void IncreaseQualityIfPossible(Item item)
