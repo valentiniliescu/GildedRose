@@ -50,7 +50,7 @@ namespace GildedRose.Console
 
         public void UpdateQuality()
         {
-            foreach (var item in _innventory)
+            foreach (var item in Inventory)
             {
                 if (item.Name != "Aged Brie" && item.Name != "Backstage passes to a TAFKAL80ETC concert")
                 {
@@ -94,27 +94,31 @@ namespace GildedRose.Console
                     item.SellIn = item.SellIn - 1;
                 }
 
-                if (item.SellIn >= 0) continue;
-                if (item.Name != "Aged Brie")
+                if (item.SellIn < 0)
                 {
-                    if (item.Name != "Backstage passes to a TAFKAL80ETC concert")
+                    if (item.Name != "Aged Brie")
                     {
-                        if (item.Quality <= 0) continue;
-                        if (item.Name != "Sulfuras, Hand of Ragnaros")
+                        if (item.Name != "Backstage passes to a TAFKAL80ETC concert")
                         {
-                            item.Quality = item.Quality - 1;
+                            if (item.Quality > 0)
+                            {
+                                if (item.Name != "Sulfuras, Hand of Ragnaros")
+                                {
+                                    item.Quality = item.Quality - 1;
+                                }
+                            }
+                        }
+                        else
+                        {
+                            item.Quality = item.Quality - item.Quality;
                         }
                     }
                     else
                     {
-                        item.Quality = item.Quality - item.Quality;
-                    }
-                }
-                else
-                {
-                    if (item.Quality < 50)
-                    {
-                        item.Quality = item.Quality + 1;
+                        if (item.Quality < 50)
+                        {
+                            item.Quality = item.Quality + 1;
+                        }
                     }
                 }
             }
