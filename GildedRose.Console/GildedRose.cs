@@ -45,8 +45,6 @@ namespace GildedRose.Console
 {
     public partial class GildedRose
     {
-        private const int QualityUpperBound = 50;
-        private const int QualityLowerBound = 0;
         public IEnumerable<Item> Inventory => _innventory;
 
         public void UpdateQuality()
@@ -56,31 +54,31 @@ namespace GildedRose.Console
                 switch (item.Name)
                 {
                     case "Aged Brie":
-                        IncreaseQualityIfPossible(item);
+                        item.IncreaseQualityIfPossible();
 
-                        DecreaseSellIn(item);
+                        item.DecreaseSellIn();
 
-                        if (IsExpired(item))
+                        if (item.IsExpired())
                         {
-                            IncreaseQualityIfPossible(item);
+                            item.IncreaseQualityIfPossible();
                         }
                         break;
                     case "Backstage passes to a TAFKAL80ETC concert":
-                        IncreaseQualityIfPossible(item);
+                        item.IncreaseQualityIfPossible();
 
                         if (item.SellIn < 11)
                         {
-                            IncreaseQualityIfPossible(item);
+                            item.IncreaseQualityIfPossible();
                         }
 
                         if (item.SellIn < 6)
                         {
-                            IncreaseQualityIfPossible(item);
+                            item.IncreaseQualityIfPossible();
                         }
 
-                        DecreaseSellIn(item);
+                        item.DecreaseSellIn();
 
-                        if (IsExpired(item))
+                        if (item.IsExpired())
                         {
                             item.Quality = 0;
                         }
@@ -88,42 +86,16 @@ namespace GildedRose.Console
                     case "Sulfuras, Hand of Ragnaros":
                         break;
                     default:
-                        DecreaseQualityIfPossible(item);
+                        item.DecreaseQualityIfPossible();
 
-                        DecreaseSellIn(item);
+                        item.DecreaseSellIn();
 
-                        if (IsExpired(item))
+                        if (item.IsExpired())
                         {
-                            DecreaseQualityIfPossible(item);
+                            item.DecreaseQualityIfPossible();
                         }
                         break;
                 }
-            }
-        }
-
-        private static bool IsExpired(Item item)
-        {
-            return item.SellIn < 0;
-        }
-
-        private static void DecreaseSellIn(Item item)
-        {
-            item.SellIn = item.SellIn - 1;
-        }
-
-        private static void IncreaseQualityIfPossible(Item item)
-        {
-            if (item.Quality < QualityUpperBound)
-            {
-                item.Quality = item.Quality + 1;
-            }
-        }
-
-        private static void DecreaseQualityIfPossible(Item item)
-        {
-            if (item.Quality > QualityLowerBound)
-            {
-                item.Quality = item.Quality - 1;
             }
         }
     }

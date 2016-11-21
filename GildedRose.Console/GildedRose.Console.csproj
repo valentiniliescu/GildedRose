@@ -35,6 +35,7 @@
   <ItemGroup>
     <Compile Include="GildedRose.cs" />
     <Compile Include="HereBeDragons.cs" />
+    <Compile Include="ItemExtensions.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>

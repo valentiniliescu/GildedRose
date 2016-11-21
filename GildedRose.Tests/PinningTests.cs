@@ -31,7 +31,7 @@ namespace GildedRose.Tests
         }
     }
 
-    public static class ItemExtensions
+    public static class ItemsExtensions
     {
         public static string SerializeToString(this IEnumerable<Console.GildedRose.Item> items)
         {
