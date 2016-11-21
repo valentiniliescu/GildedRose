@@ -45,6 +45,8 @@ namespace GildedRose.Console
 {
     public partial class GildedRose
     {
+        private const int QualityUpperBound = 50;
+        private const int QualityLowerBound = 0;
         public IEnumerable<Item> Inventory => _innventory;
 
         public void UpdateQuality()
@@ -54,26 +56,25 @@ namespace GildedRose.Console
                 switch (item.Name)
                 {
                     case "Aged Brie":
-                        IncreaseQualityIfUnder50(item);
+                        IncreaseQualityIfPossible(item);
                         break;
                     case "Backstage passes to a TAFKAL80ETC concert":
-                        IncreaseQualityIfUnder50(item);
+                        IncreaseQualityIfPossible(item);
 
                         if (item.SellIn < 11)
                         {
-                            IncreaseQualityIfUnder50(item);
+                            IncreaseQualityIfPossible(item);
                         }
 
                         if (item.SellIn < 6)
                         {
-                            IncreaseQualityIfUnder50(item);
+                            IncreaseQualityIfPossible(item);
                         }
                         break;
                     case "Sulfuras, Hand of Ragnaros":
-                        DecreaseQualityIfNotSulfuras(item);
                         break;
                     default:
-                        DecreaseQualityIfNotSulfuras(item);
+                        DecreaseQualityIfPossible(item);
                         break;
                 }
 
@@ -87,33 +88,32 @@ namespace GildedRose.Console
                     switch (item.Name)
                     {
                         case "Aged Brie":
-                            IncreaseQualityIfUnder50(item);
+                            IncreaseQualityIfPossible(item);
                             break;
                         case "Backstage passes to a TAFKAL80ETC concert":
                             item.Quality = 0;
                             break;
                         case "Sulfuras, Hand of Ragnaros":
-                            DecreaseQualityIfNotSulfuras(item);
                             break;
                         default:
-                            DecreaseQualityIfNotSulfuras(item);
+                            DecreaseQualityIfPossible(item);
                             break;
                     }
                 }
             }
         }
 
-        private static void IncreaseQualityIfUnder50(Item item)
+        private static void IncreaseQualityIfPossible(Item item)
         {
-            if (item.Quality < 50)
+            if (item.Quality < QualityUpperBound)
             {
                 item.Quality = item.Quality + 1;
             }
         }
 
-        private static void DecreaseQualityIfNotSulfuras(Item item)
+        private static void DecreaseQualityIfPossible(Item item)
         {
-            if (item.Quality > 0 && item.Name != "Sulfuras, Hand of Ragnaros")
+            if (item.Quality > QualityLowerBound)
             {
                 item.Quality = item.Quality - 1;
             }
