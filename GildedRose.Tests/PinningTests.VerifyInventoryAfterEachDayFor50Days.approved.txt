@@ -8,393 +8,393 @@ Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
 Name: Conjured Mana Cake Sell in: 3 Quality: 6
 
 Inventory after day 1
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 9 Quality: 19
+Name: Aged Brie Sell in: 1 Quality: 1
+Name: Elixir of the Mongoose Sell in: 4 Quality: 6
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 14 Quality: 21
+Name: Conjured Mana Cake Sell in: 2 Quality: 5
 
 Inventory after day 2
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 8 Quality: 18
+Name: Aged Brie Sell in: 0 Quality: 2
+Name: Elixir of the Mongoose Sell in: 3 Quality: 5
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 13 Quality: 22
+Name: Conjured Mana Cake Sell in: 1 Quality: 4
 
 Inventory after day 3
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 7 Quality: 17
+Name: Aged Brie Sell in: -1 Quality: 4
+Name: Elixir of the Mongoose Sell in: 2 Quality: 4
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 12 Quality: 23
+Name: Conjured Mana Cake Sell in: 0 Quality: 3
 
 Inventory after day 4
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 6 Quality: 16
+Name: Aged Brie Sell in: -2 Quality: 6
+Name: Elixir of the Mongoose Sell in: 1 Quality: 3
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 11 Quality: 24
+Name: Conjured Mana Cake Sell in: -1 Quality: 1
 
 Inventory after day 5
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 5 Quality: 15
+Name: Aged Brie Sell in: -3 Quality: 8
+Name: Elixir of the Mongoose Sell in: 0 Quality: 2
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 10 Quality: 25
+Name: Conjured Mana Cake Sell in: -2 Quality: 0
 
 Inventory after day 6
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 4 Quality: 14
+Name: Aged Brie Sell in: -4 Quality: 10
+Name: Elixir of the Mongoose Sell in: -1 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 9 Quality: 27
+Name: Conjured Mana Cake Sell in: -3 Quality: 0
 
 Inventory after day 7
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 3 Quality: 13
+Name: Aged Brie Sell in: -5 Quality: 12
+Name: Elixir of the Mongoose Sell in: -2 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 8 Quality: 29
+Name: Conjured Mana Cake Sell in: -4 Quality: 0
 
 Inventory after day 8
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 2 Quality: 12
+Name: Aged Brie Sell in: -6 Quality: 14
+Name: Elixir of the Mongoose Sell in: -3 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 7 Quality: 31
+Name: Conjured Mana Cake Sell in: -5 Quality: 0
 
 Inventory after day 9
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 1 Quality: 11
+Name: Aged Brie Sell in: -7 Quality: 16
+Name: Elixir of the Mongoose Sell in: -4 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 6 Quality: 33
+Name: Conjured Mana Cake Sell in: -6 Quality: 0
 
 Inventory after day 10
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: 0 Quality: 10
+Name: Aged Brie Sell in: -8 Quality: 18
+Name: Elixir of the Mongoose Sell in: -5 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 5 Quality: 35
+Name: Conjured Mana Cake Sell in: -7 Quality: 0
 
 Inventory after day 11
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -1 Quality: 8
+Name: Aged Brie Sell in: -9 Quality: 20
+Name: Elixir of the Mongoose Sell in: -6 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 4 Quality: 38
+Name: Conjured Mana Cake Sell in: -8 Quality: 0
 
 Inventory after day 12
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -2 Quality: 6
+Name: Aged Brie Sell in: -10 Quality: 22
+Name: Elixir of the Mongoose Sell in: -7 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 3 Quality: 41
+Name: Conjured Mana Cake Sell in: -9 Quality: 0
 
 Inventory after day 13
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -3 Quality: 4
+Name: Aged Brie Sell in: -11 Quality: 24
+Name: Elixir of the Mongoose Sell in: -8 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 2 Quality: 44
+Name: Conjured Mana Cake Sell in: -10 Quality: 0
 
 Inventory after day 14
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -4 Quality: 2
+Name: Aged Brie Sell in: -12 Quality: 26
+Name: Elixir of the Mongoose Sell in: -9 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 1 Quality: 47
+Name: Conjured Mana Cake Sell in: -11 Quality: 0
 
 Inventory after day 15
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -5 Quality: 0
+Name: Aged Brie Sell in: -13 Quality: 28
+Name: Elixir of the Mongoose Sell in: -10 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: 0 Quality: 50
+Name: Conjured Mana Cake Sell in: -12 Quality: 0
 
 Inventory after day 16
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -6 Quality: 0
+Name: Aged Brie Sell in: -14 Quality: 30
+Name: Elixir of the Mongoose Sell in: -11 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -1 Quality: 0
+Name: Conjured Mana Cake Sell in: -13 Quality: 0
 
 Inventory after day 17
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -7 Quality: 0
+Name: Aged Brie Sell in: -15 Quality: 32
+Name: Elixir of the Mongoose Sell in: -12 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -2 Quality: 0
+Name: Conjured Mana Cake Sell in: -14 Quality: 0
 
 Inventory after day 18
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -8 Quality: 0
+Name: Aged Brie Sell in: -16 Quality: 34
+Name: Elixir of the Mongoose Sell in: -13 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -3 Quality: 0
+Name: Conjured Mana Cake Sell in: -15 Quality: 0
 
 Inventory after day 19
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -9 Quality: 0
+Name: Aged Brie Sell in: -17 Quality: 36
+Name: Elixir of the Mongoose Sell in: -14 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -4 Quality: 0
+Name: Conjured Mana Cake Sell in: -16 Quality: 0
 
 Inventory after day 20
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -10 Quality: 0
+Name: Aged Brie Sell in: -18 Quality: 38
+Name: Elixir of the Mongoose Sell in: -15 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -5 Quality: 0
+Name: Conjured Mana Cake Sell in: -17 Quality: 0
 
 Inventory after day 21
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -11 Quality: 0
+Name: Aged Brie Sell in: -19 Quality: 40
+Name: Elixir of the Mongoose Sell in: -16 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -6 Quality: 0
+Name: Conjured Mana Cake Sell in: -18 Quality: 0
 
 Inventory after day 22
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -12 Quality: 0
+Name: Aged Brie Sell in: -20 Quality: 42
+Name: Elixir of the Mongoose Sell in: -17 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -7 Quality: 0
+Name: Conjured Mana Cake Sell in: -19 Quality: 0
 
 Inventory after day 23
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -13 Quality: 0
+Name: Aged Brie Sell in: -21 Quality: 44
+Name: Elixir of the Mongoose Sell in: -18 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -8 Quality: 0
+Name: Conjured Mana Cake Sell in: -20 Quality: 0
 
 Inventory after day 24
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -14 Quality: 0
+Name: Aged Brie Sell in: -22 Quality: 46
+Name: Elixir of the Mongoose Sell in: -19 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -9 Quality: 0
+Name: Conjured Mana Cake Sell in: -21 Quality: 0
 
 Inventory after day 25
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -15 Quality: 0
+Name: Aged Brie Sell in: -23 Quality: 48
+Name: Elixir of the Mongoose Sell in: -20 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -10 Quality: 0
+Name: Conjured Mana Cake Sell in: -22 Quality: 0
 
 Inventory after day 26
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -16 Quality: 0
+Name: Aged Brie Sell in: -24 Quality: 50
+Name: Elixir of the Mongoose Sell in: -21 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -11 Quality: 0
+Name: Conjured Mana Cake Sell in: -23 Quality: 0
 
 Inventory after day 27
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -17 Quality: 0
+Name: Aged Brie Sell in: -25 Quality: 50
+Name: Elixir of the Mongoose Sell in: -22 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -12 Quality: 0
+Name: Conjured Mana Cake Sell in: -24 Quality: 0
 
 Inventory after day 28
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -18 Quality: 0
+Name: Aged Brie Sell in: -26 Quality: 50
+Name: Elixir of the Mongoose Sell in: -23 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -13 Quality: 0
+Name: Conjured Mana Cake Sell in: -25 Quality: 0
 
 Inventory after day 29
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -19 Quality: 0
+Name: Aged Brie Sell in: -27 Quality: 50
+Name: Elixir of the Mongoose Sell in: -24 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -14 Quality: 0
+Name: Conjured Mana Cake Sell in: -26 Quality: 0
 
 Inventory after day 30
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -20 Quality: 0
+Name: Aged Brie Sell in: -28 Quality: 50
+Name: Elixir of the Mongoose Sell in: -25 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -15 Quality: 0
+Name: Conjured Mana Cake Sell in: -27 Quality: 0
 
 Inventory after day 31
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -21 Quality: 0
+Name: Aged Brie Sell in: -29 Quality: 50
+Name: Elixir of the Mongoose Sell in: -26 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -16 Quality: 0
+Name: Conjured Mana Cake Sell in: -28 Quality: 0
 
 Inventory after day 32
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -22 Quality: 0
+Name: Aged Brie Sell in: -30 Quality: 50
+Name: Elixir of the Mongoose Sell in: -27 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -17 Quality: 0
+Name: Conjured Mana Cake Sell in: -29 Quality: 0
 
 Inventory after day 33
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -23 Quality: 0
+Name: Aged Brie Sell in: -31 Quality: 50
+Name: Elixir of the Mongoose Sell in: -28 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -18 Quality: 0
+Name: Conjured Mana Cake Sell in: -30 Quality: 0
 
 Inventory after day 34
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -24 Quality: 0
+Name: Aged Brie Sell in: -32 Quality: 50
+Name: Elixir of the Mongoose Sell in: -29 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -19 Quality: 0
+Name: Conjured Mana Cake Sell in: -31 Quality: 0
 
 Inventory after day 35
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -25 Quality: 0
+Name: Aged Brie Sell in: -33 Quality: 50
+Name: Elixir of the Mongoose Sell in: -30 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -20 Quality: 0
+Name: Conjured Mana Cake Sell in: -32 Quality: 0
 
 Inventory after day 36
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -26 Quality: 0
+Name: Aged Brie Sell in: -34 Quality: 50
+Name: Elixir of the Mongoose Sell in: -31 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -21 Quality: 0
+Name: Conjured Mana Cake Sell in: -33 Quality: 0
 
 Inventory after day 37
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -27 Quality: 0
+Name: Aged Brie Sell in: -35 Quality: 50
+Name: Elixir of the Mongoose Sell in: -32 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -22 Quality: 0
+Name: Conjured Mana Cake Sell in: -34 Quality: 0
 
 Inventory after day 38
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -28 Quality: 0
+Name: Aged Brie Sell in: -36 Quality: 50
+Name: Elixir of the Mongoose Sell in: -33 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -23 Quality: 0
+Name: Conjured Mana Cake Sell in: -35 Quality: 0
 
 Inventory after day 39
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -29 Quality: 0
+Name: Aged Brie Sell in: -37 Quality: 50
+Name: Elixir of the Mongoose Sell in: -34 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -24 Quality: 0
+Name: Conjured Mana Cake Sell in: -36 Quality: 0
 
 Inventory after day 40
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -30 Quality: 0
+Name: Aged Brie Sell in: -38 Quality: 50
+Name: Elixir of the Mongoose Sell in: -35 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -25 Quality: 0
+Name: Conjured Mana Cake Sell in: -37 Quality: 0
 
 Inventory after day 41
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -31 Quality: 0
+Name: Aged Brie Sell in: -39 Quality: 50
+Name: Elixir of the Mongoose Sell in: -36 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -26 Quality: 0
+Name: Conjured Mana Cake Sell in: -38 Quality: 0
 
 Inventory after day 42
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -32 Quality: 0
+Name: Aged Brie Sell in: -40 Quality: 50
+Name: Elixir of the Mongoose Sell in: -37 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -27 Quality: 0
+Name: Conjured Mana Cake Sell in: -39 Quality: 0
 
 Inventory after day 43
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -33 Quality: 0
+Name: Aged Brie Sell in: -41 Quality: 50
+Name: Elixir of the Mongoose Sell in: -38 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -28 Quality: 0
+Name: Conjured Mana Cake Sell in: -40 Quality: 0
 
 Inventory after day 44
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -34 Quality: 0
+Name: Aged Brie Sell in: -42 Quality: 50
+Name: Elixir of the Mongoose Sell in: -39 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -29 Quality: 0
+Name: Conjured Mana Cake Sell in: -41 Quality: 0
 
 Inventory after day 45
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -35 Quality: 0
+Name: Aged Brie Sell in: -43 Quality: 50
+Name: Elixir of the Mongoose Sell in: -40 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -30 Quality: 0
+Name: Conjured Mana Cake Sell in: -42 Quality: 0
 
 Inventory after day 46
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -36 Quality: 0
+Name: Aged Brie Sell in: -44 Quality: 50
+Name: Elixir of the Mongoose Sell in: -41 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -31 Quality: 0
+Name: Conjured Mana Cake Sell in: -43 Quality: 0
 
 Inventory after day 47
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -37 Quality: 0
+Name: Aged Brie Sell in: -45 Quality: 50
+Name: Elixir of the Mongoose Sell in: -42 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -32 Quality: 0
+Name: Conjured Mana Cake Sell in: -44 Quality: 0
 
 Inventory after day 48
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -38 Quality: 0
+Name: Aged Brie Sell in: -46 Quality: 50
+Name: Elixir of the Mongoose Sell in: -43 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -33 Quality: 0
+Name: Conjured Mana Cake Sell in: -45 Quality: 0
 
 Inventory after day 49
-Name: +5 Dexterity Vest Sell in: 10 Quality: 20
-Name: Aged Brie Sell in: 2 Quality: 0
-Name: Elixir of the Mongoose Sell in: 5 Quality: 7
+Name: +5 Dexterity Vest Sell in: -39 Quality: 0
+Name: Aged Brie Sell in: -47 Quality: 50
+Name: Elixir of the Mongoose Sell in: -44 Quality: 0
 Name: Sulfuras, Hand of Ragnaros Sell in: 0 Quality: 80
-Name: Backstage passes to a TAFKAL80ETC concert Sell in: 15 Quality: 20
-Name: Conjured Mana Cake Sell in: 3 Quality: 6
+Name: Backstage passes to a TAFKAL80ETC concert Sell in: -34 Quality: 0
+Name: Conjured Mana Cake Sell in: -46 Quality: 0

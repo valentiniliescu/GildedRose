@@ -23,6 +23,8 @@ namespace GildedRose.Tests
                     .AppendLine($"Inventory after day {day}")
                     .Append(gildedRose.Inventory.SerializeToString())
                     .AppendLine();
+
+                gildedRose.UpdateQuality();
             }
 
             Approvals.Verify(log);
