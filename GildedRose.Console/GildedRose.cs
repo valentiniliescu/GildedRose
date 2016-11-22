@@ -51,7 +51,7 @@ namespace GildedRose.Console
         {
             foreach (var item in Inventory)
             {
-                switch (item.Name)
+                switch (item.GetName())
                 {
                     case "Aged Brie":
                         item.IncreaseQualityIfPossible();
