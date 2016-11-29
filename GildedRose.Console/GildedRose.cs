@@ -80,7 +80,7 @@ namespace GildedRose.Console
 
                         if (item.IsExpired())
                         {
-                            item.Quality = 0;
+                            item.ResetQuality();
                         }
                         break;
                     case "Sulfuras, Hand of Ragnaros":

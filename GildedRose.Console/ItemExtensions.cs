@@ -58,5 +58,10 @@ namespace GildedRose.Console
                 ? item.Name.Substring(ConjuredPrefix.Length + 1)
                 : item.Name;
         }
+
+        public static void ResetQuality(this GildedRose.Item item)
+        {
+            item.Quality = 0;
+        }
     }
 }
